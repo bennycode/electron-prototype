@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "electron": "1.8.8"
+  },
+  "main": "index.js",
+  "name": "electron-prototype",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennyn/electron-prototype.git"
+  },
+  "scripts": {
+    "start": "electron src/main/main.js"
+  },
+  "version": "1.0.0"
+}
