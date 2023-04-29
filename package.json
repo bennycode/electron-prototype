@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "electron": "1.8.8",
+    "electron": "18.3.7",
     "electron-window-state": "5.0.0"
   },
   "main": "index.js",
